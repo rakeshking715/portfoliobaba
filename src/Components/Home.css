@@ -1,0 +1,72 @@
+.home {
+    /* background-color: rgb(100, 120, 149); */
+    /* background-color: white; */
+    height: 100%;
+}
+
+.navbar {
+    background-color: rgb(240,245,241);
+}
+.logInContainer{
+    height: 430px;
+    width: 370px;
+    /* background-color: white; */
+    border: 1.5px solid dodgerblue;
+    border-radius: 12px;
+    box-shadow: 0 0 4px 4px;
+}
+
+.registrationContainer{
+    height: 450px;
+    width: 320px;
+    background-color: white;
+    border: 1.5px solid dodgerblue;
+    border-radius: 12px;
+    box-shadow: 0 0 4px 4px;
+
+}
+
+.floatword {
+    font-size: xx-large;
+    font-weight: 700;
+    color: #ffbb33;
+}
+
+.homeFont {
+    font-size:2.4rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* color: black; */
+    font-weight: bold;
+}
+.videoBox {
+    height: 205px;
+    width: 360px;
+    background-color: white;
+    border: 1.5px solid dodgerblue;
+    border-radius: 12px;
+    box-shadow: 0 0 4px 4px;
+    margin-left: 20px;
+}
+
+.typewriter {
+    height: 130px;
+    width: 420px;
+    border: 1.5px solid rgb(232, 237, 242);
+    border-radius: 12px;
+    box-shadow: 0 0 4px 4px black;
+    background-image: linear-gradient(to right, rgb(95, 95, 192) , rgb(160, 82, 123));
+    color: black;
+}
+
+.sticky {
+    height: 300px;
+    width: 300px;
+}
+
+.bodyBg {
+    background-image: url('./bg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+     /* NAvbar */

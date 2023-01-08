@@ -1,0 +1,55 @@
+.dashboard {
+    /* background-color: rgb(60, 75, 100); */
+    /* background-image: linear-gradient(to right, rgb(95, 95, 192) , rgb(160, 82, 123)); */
+    background-image: linear-gradient(to right, black,rgb(60, 75, 100));
+    height: 100vh;
+    transition: 0.7s;
+    color: white;
+    position: fixed;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.sidebarA {
+    text-decoration: none;
+    color: white;
+    padding: 10px 0 10px 10px;
+    display: block;
+    margin: 4px 0 0 -30px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.sidebarA:hover {
+    /* background-color: dodgerblue; */
+    background-color: rgb(60, 75, 100);
+    color: white;
+}
+
+.SidaBarHr {
+    margin: 2px 0 0 -30px;
+    color: inherit;
+    border: 0;
+    border-top: 1px solid;
+    opacity: 0.75;
+}
+
+
+.badgeSpan{
+    transition: 3s;
+    background-color: #3399ff;
+    float: right;
+    font-size: 12px;
+    margin-right: 10px;
+    text-align: center;
+}
+.ViewHeadlineIconCSS{
+    margin-left: 9px;
+     height:35px
+}
+
+
+.logo{
+    height: 30px;
+    width: 30spx;
+}

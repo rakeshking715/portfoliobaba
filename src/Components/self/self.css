@@ -1,0 +1,28 @@
+
+/* About  */
+.container {
+    margin-top: 2rem;
+}
+
+.about{
+  /* background-image: url('./AboutBg.jpeg'); */
+  height: 100veh;
+  background-repeat: round;
+  background-size: cover;
+}
+
+.cards{
+    height: 470px;
+    width: 350px;
+    background-color: white;
+    border: 1.5px solid gray;
+    border-radius: 0.2rem;
+    box-shadow: 0 0 0 1px;
+    margin: 2rem 0 0 8rem;
+}
+
+.ConIn {
+width: 17.5rem;
+height: 2.5rem;
+outline: none;
+}
